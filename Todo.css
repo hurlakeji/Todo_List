@@ -1,0 +1,15 @@
+.todo_list{
+    text-align: center;
+}
+
+.Todo_button{
+    position:absolute;
+    top: 10px;
+    right:150px;
+}
+    
+.Todo_DeleteForeverIcon{
+    position:absolute;
+    top: 11px;
+    right:120px;
+}
